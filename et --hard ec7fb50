@@ -1,0 +1,28 @@
+[33m3525d89[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: checkout: moving from levelBuilding to master
+[33mec7fb50[m[33m ([m[1;32mlevelBuilding[m[33m)[m HEAD@{1}: checkout: moving from levelBuilding to levelBuilding
+[33mec7fb50[m[33m ([m[1;32mlevelBuilding[m[33m)[m HEAD@{2}: commit: Added New Textures for Turret and Door. Also Added Jungle Trees, Grass, and Updated Spawn Area
+[33m61454c3[m[33m ([m[1;31morigin/levelBuilding[m[33m)[m HEAD@{3}: commit: Finished Rapid Prototype
+[33m80b1744[m HEAD@{4}: commit: Added menu
+[33m0f5176c[m HEAD@{5}: commit: Added Player Graphics, Animation Blueprint, and Charge Jump Ability. Updated Movement and Perspective. Adjusted Door. Added Disappearing Cave Wall. Began Level Desgin.
+[33m3525d89[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{6}: checkout: moving from master to levelBuilding
+[33m3525d89[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{7}: pull origin master: Fast-forward
+[33m28e413d[m HEAD@{8}: checkout: moving from buttonSetup to master
+[33mc6811ea[m[33m ([m[1;31morigin/buttonSetup[m[33m, [m[1;32mbuttonSetup[m[33m)[m HEAD@{9}: commit: Completed Button Setup
+[33m28e413d[m HEAD@{10}: checkout: moving from master to buttonSetup
+[33m28e413d[m HEAD@{11}: pull origin master: Fast-forward
+[33m9cf06f9[m HEAD@{12}: checkout: moving from turretSetup to master
+[33m396d295[m[33m ([m[1;31morigin/turretSetup[m[33m, [m[1;32mturretSetup[m[33m)[m HEAD@{13}: commit: Finished Turret Setup
+[33m9cf06f9[m HEAD@{14}: checkout: moving from master to turretSetup
+[33m9cf06f9[m HEAD@{15}: pull origin master: Fast-forward
+[33md5a5694[m HEAD@{16}: checkout: moving from doorSetup to master
+[33mc73bfbc[m[33m ([m[1;31morigin/doorSetup[m[33m, [m[1;32mdoorSetup[m[33m)[m HEAD@{17}: commit: Finished Door Setup
+[33md5a5694[m HEAD@{18}: checkout: moving from master to doorSetup
+[33md5a5694[m HEAD@{19}: pull origin master: Fast-forward
+[33mf35b18c[m HEAD@{20}: checkout: moving from pickupInteraction to master
+[33m9546f94[m[33m ([m[1;31morigin/pickupInteraction[m[33m, [m[1;32mpickupInteraction[m[33m)[m HEAD@{21}: commit: Added Pickup Functionality
+[33mf35b18c[m HEAD@{22}: checkout: moving from master to pickupInteraction
+[33mf35b18c[m HEAD@{23}: pull origin master: Fast-forward
+[33md213cd7[m HEAD@{24}: checkout: moving from playerSetup to master
+[33m47139aa[m[33m ([m[1;31morigin/playerSetup[m[33m, [m[1;32mplayerSetup[m[33m)[m HEAD@{25}: commit: Finished Initial Player Setup
+[33md213cd7[m HEAD@{26}: checkout: moving from master to playerSetup
+[33md213cd7[m HEAD@{27}: commit (initial): initial commit
